@@ -1,0 +1,39 @@
+.profile-main {
+    font-size: 15px;
+    color:  black;
+    text-align: center;
+}
+
+.profile-main a img {
+    width: 50px;
+    height: 50px;
+}
+.contect_me-main {
+    font-size: 15px;
+    color:  black;
+    text-align: center;
+}
+
+
+.contect_me-main a img {
+    width: 50px;
+    height: 50px;
+}
+
+.interest-main {
+    font-size: 15px;
+    color:  black;
+    text-align: center;
+}
+
+.interest-main li {
+    list-style-type: none;
+}
+
+.interest-main li img {
+    width: 100px;
+    height:100px;
+}
+.interest-main p {
+    padding-top: 50px;
+}
